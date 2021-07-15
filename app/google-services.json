@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689086447639",
+    "firebase_url": "https://cebproject-2c324-default-rtdb.firebaseio.com",
+    "project_id": "cebproject-2c324",
+    "storage_bucket": "cebproject-2c324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689086447639:android:ae94256337c08ac30a9c52",
+        "android_client_info": {
+          "package_name": "com.example.cebapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689086447639-o3m310lcbahcoisn3reld3gckglgb6t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsuXKFYQkCJskTR-I_To6hBp8966ttnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689086447639-o3m310lcbahcoisn3reld3gckglgb6t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
